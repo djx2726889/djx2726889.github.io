@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "邓嘉鑫"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
