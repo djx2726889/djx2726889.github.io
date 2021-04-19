@@ -17,28 +17,111 @@ CET-4：628     CET-6：590
 
 主干课程
 ======
-|                   课程                   | 成绩 |
-| :--------------------------------------: | :--: |
-|                 数学分析                 |  97  |
-|                 离散数学                 |  97  |
-|               电子电路实验               |  96  |
-|         计算机系统与网络安全技术         |  96  |
-|          汇编语言与微机接口技术          |  96  |
-|                 大学物理                 |  95  |
-|          线性代数与空间解析几何          |  95  |
-|                信号与系统                |  95  |
-|        电子电路基础（挑战性课程）        |  94  |
-|               Java程序设计               |  94  |
-|                 软件工程                 |  94  |
-|             高级语言程序设计             |  93  |
-|              基础科研训练I               |  93  |
-|                 人工智能                 |  92  |
-|                 随机数学                 |  92  |
-|              数据结构与算法              |  91  |
-| 数字逻辑与微处理器系统设计（挑战性课程） |  90  |
-|              计算机组成原理              |  90  |
-|              计算机操作系统              |  89  |
-|                计算机网络                |  88  |
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-i3dw{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-mjfx{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;font-weight:bold;text-align:center;
+  vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7btt">课程</th>
+    <th class="tg-mjfx">  成绩  </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">数学分析</td>
+    <td class="tg-i3dw">97</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">离散数学</td>
+    <td class="tg-i3dw">97</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">电子电路实验</td>
+    <td class="tg-i3dw">96</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">计算机系统与网络安全技术</td>
+    <td class="tg-i3dw">96</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">汇编语言与微机接口技术</td>
+    <td class="tg-i3dw">96</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">大学物理</td>
+    <td class="tg-i3dw">95</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">线性代数与空间解析几何</td>
+    <td class="tg-i3dw">95</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">信号与系统</td>
+    <td class="tg-i3dw">95</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">电子电路基础（挑战性课程）</td>
+    <td class="tg-i3dw">94</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Java程序设计</td>
+    <td class="tg-i3dw">94</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">软件工程</td>
+    <td class="tg-i3dw">94</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">高级语言程序设计</td>
+    <td class="tg-i3dw">93</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">基础科研训练I</td>
+    <td class="tg-i3dw">93</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">人工智能</td>
+    <td class="tg-i3dw">92</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">随机数学</td>
+    <td class="tg-i3dw">92</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">数据结构与算法</td>
+    <td class="tg-i3dw">91</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">数字逻辑与微处理器系统设计（挑战性课程）</td>
+    <td class="tg-i3dw">90</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">计算机组成原理</td>
+    <td class="tg-i3dw">90</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">计算机操作系统</td>
+    <td class="tg-i3dw">89</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">计算机网络</td>
+    <td class="tg-i3dw">88</td>
+  </tr>
+</tbody>
+</table>
+
+
 
 获奖情况
 ======
