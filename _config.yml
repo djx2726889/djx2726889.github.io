@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "邓嘉鑫的主页"
+title                    : "邓嘉鑫"
 title_separator          : "-"
-name                     : &name "邓嘉鑫"
+name                     : &name "邓嘉鑫的主页"
 description              : &description ""
 url                      : https://jiaxindeng.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "light" (default), "dark"
+    colorscheme          : "light", "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
