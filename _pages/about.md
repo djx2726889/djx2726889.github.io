@@ -25,97 +25,95 @@ CET-4：628     CET-6：590
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-i3dw{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-mjfx{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;font-weight:bold;text-align:center;
   vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-7btt">课程</th>
+    <th class="tg-mjfx">课程</th>
     <th class="tg-mjfx">  成绩  </th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">数学分析</td>
+    <td class="tg-i3dw">数学分析</td>
     <td class="tg-i3dw">97</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">离散数学</td>
+    <td class="tg-i3dw">离散数学</td>
     <td class="tg-i3dw">97</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">电子电路实验</td>
+    <td class="tg-i3dw">电子电路实验</td>
     <td class="tg-i3dw">96</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">计算机系统与网络安全技术</td>
+    <td class="tg-i3dw">计算机系统与网络安全技术</td>
     <td class="tg-i3dw">96</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">汇编语言与微机接口技术</td>
+    <td class="tg-i3dw">汇编语言与微机接口技术</td>
     <td class="tg-i3dw">96</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">大学物理</td>
+    <td class="tg-i3dw">大学物理</td>
     <td class="tg-i3dw">95</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">线性代数与空间解析几何</td>
+    <td class="tg-i3dw">线性代数与空间解析几何</td>
     <td class="tg-i3dw">95</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">信号与系统</td>
+    <td class="tg-i3dw">信号与系统</td>
     <td class="tg-i3dw">95</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">电子电路基础（挑战性课程）</td>
+    <td class="tg-i3dw">电子电路基础（挑战性课程）</td>
     <td class="tg-i3dw">94</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Java程序设计</td>
+    <td class="tg-i3dw">Java程序设计</td>
     <td class="tg-i3dw">94</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">软件工程</td>
+    <td class="tg-i3dw">软件工程</td>
     <td class="tg-i3dw">94</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">高级语言程序设计</td>
+    <td class="tg-i3dw">高级语言程序设计</td>
     <td class="tg-i3dw">93</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">基础科研训练I</td>
+    <td class="tg-i3dw">基础科研训练I</td>
     <td class="tg-i3dw">93</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">人工智能</td>
+    <td class="tg-i3dw">人工智能</td>
     <td class="tg-i3dw">92</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">随机数学</td>
+    <td class="tg-i3dw">随机数学</td>
     <td class="tg-i3dw">92</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">数据结构与算法</td>
+    <td class="tg-i3dw">数据结构与算法</td>
     <td class="tg-i3dw">91</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">数字逻辑与微处理器系统设计（挑战性课程）</td>
+    <td class="tg-i3dw">数字逻辑与微处理器系统设计（挑战性课程）</td>
     <td class="tg-i3dw">90</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">计算机组成原理</td>
+    <td class="tg-i3dw">计算机组成原理</td>
     <td class="tg-i3dw">90</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">计算机操作系统</td>
+    <td class="tg-i3dw">计算机操作系统</td>
     <td class="tg-i3dw">89</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">计算机网络</td>
+    <td class="tg-i3dw">计算机网络</td>
     <td class="tg-i3dw">88</td>
   </tr>
 </tbody>
@@ -125,11 +123,66 @@ CET-4：628     CET-6：590
 
 获奖情况
 ======
-​	2020.12 电子科技大学“大学生创新创业训练计划”优秀结题  
-​	2020.10 电子科技大学优秀学生奖学金 一等奖（连续三年）  
-​	2020.10 《一类中值问题的一般解法》论文录用（《数学学习与研究》期刊） 第一作者  
-​	2019.11 第十一届全国大学生数学竞赛（非数学类） 省级二等奖  
-​	2019.05 电子科技大学第二十九届数学竞赛（非数学类） 二等奖  
+​<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-g145{font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:top}
+.tg .tg-xbtx{font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xbtx">2020.12</th>
+    <th class="tg-xbtx">电子科技大学“大学生创新创业训练计划”</th>
+    <th class="tg-xbtx">优秀结题</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xbtx">2020.1</td>
+    <td class="tg-xbtx">《一类中值问题的一般解法》论文录用（《数学学习与研究》期刊） </td>
+    <td class="tg-xbtx">第一作者</td>
+  </tr>
+  <tr>
+    <td class="tg-xbtx">2020.1</td>
+    <td class="tg-xbtx">电子科技大学优秀学生奖学金 （连续三年）</td>
+    <td class="tg-xbtx">一等奖</td>
+  </tr>
+  <tr>
+    <td class="tg-xbtx">2020.1</td>
+    <td class="tg-xbtx">电子科技大学Hackathon极限编程竞赛</td>
+    <td class="tg-g145"> 一等奖</td>
+  </tr>
+  <tr>
+    <td class="tg-xbtx">2020.07</td>
+    <td class="tg-xbtx">华迪大数据技术软件开发实训</td>
+    <td class="tg-xbtx">优秀成员</td>
+  </tr>
+  <tr>
+    <td class="tg-xbtx">2019.12</td>
+    <td class="tg-xbtx">电子科技大学“青春志愿，爱在社区”科教进社区活动</td>
+    <td class="tg-xbtx">优秀成员</td>
+  </tr>
+  <tr>
+    <td class="tg-xbtx">2019.11</td>
+    <td class="tg-xbtx">第十一届全国大学生数学竞赛（非数学类）</td>
+    <td class="tg-xbtx">省级二等奖</td>
+  </tr>
+  <tr>
+    <td class="tg-xbtx">2019.05</td>
+    <td class="tg-xbtx">电子科技大学第二十九届数学竞赛（非数学类）</td>
+    <td class="tg-xbtx">二等奖</td>
+  </tr>
+  <tr>
+    <td class="tg-xbtx">2019.05</td>
+    <td class="tg-xbtx">电子科技大学第六届数学建模新生赛</td>
+    <td class="tg-xbtx">二等奖</td>
+  </tr>
+</tbody>
+</table>
 
 科研经历
 ======
