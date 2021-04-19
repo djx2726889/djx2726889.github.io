@@ -4,10 +4,12 @@ title: "About Me"
 date: 2021-04-19
 excerpt: "About me"
 author_profile: true
-toc: true
 redirect_from: 
   - /about/
   - /about.html
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 # 教育背景
