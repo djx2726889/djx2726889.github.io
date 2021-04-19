@@ -135,12 +135,17 @@ CET-4：628     CET-6：590
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-xbtx">2020.12</th>
-    <th class="tg-xbtx">电子科技大学“大学生创新创业训练计划”</th>
-    <th class="tg-xbtx">优秀结题</th>
+    <th class="tg-g145">时间</th>
+    <th class="tg-g145">项目名称</th>
+    <th class="tg-g145">荣誉等级</th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td class="tg-xbtx">2020.12</td>
+    <td class="tg-xbtx">电子科技大学“大学生创新创业训练计划”</td>
+    <td class="tg-xbtx">优秀结题</td>
+  </tr>
   <tr>
     <td class="tg-xbtx">2020.1</td>
     <td class="tg-xbtx">《一类中值问题的一般解法》论文录用（《数学学习与研究》期刊） </td>
