@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 # 教育背景
-======
+  
 - 2018.08-2022.06 电子科技大学 计算机科学与工程学院 计算机科学与技术（**“成电英才计划”实验班**）  
 - 学分绩点：3.99/4.00   
 - **专业排名（前五学期）: 3/254 1.2%**  
@@ -19,7 +19,7 @@ redirect_from:
 - CET-6：590  
 
 # 主干课程
-
+  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -124,7 +124,7 @@ redirect_from:
 
 
 # 获奖情况
-
+  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -192,7 +192,7 @@ redirect_from:
 </table>
 
 # 科研经历
-
+  
 - **2019.12~今  电子科技大学未来媒体实验室科研训练**  
 	**学生**：未来媒体实验室是电子科技大学计算机科学与工程学院院长申恒涛教授牵头的研究团队。致力于计算机科学与技术、人工智能等学科在多媒体智能信息处理方面的的学科建设，团队建设，人才培养，科学研究与技术应用。本人主要从事目标检测(Object Detection)、图片描述(Image Caption)、视觉关系检测(Visual Relationship Detection) 相关方面的学习与研究。现在主要在博士的带领下从事关于VRD(Visual Relationship Detection)领域的研究与学习。熟练掌握了常用深度框架Pytorch 的使用、能够熟练使用服务器进行模型的训练、熟悉Pycharm 远程代码调试、熟悉深度学习环境的搭建与使用。对Faster RCNN 目标检测模型与Visual Genome 数据集、VRD 数据集较为了解，熟悉Visual Genome 数据集的数据清洗流程。
 
@@ -201,12 +201,12 @@ redirect_from:
 	样本数据集。
 
 # 实践经历
-
+  
 - 2020.06.30-2020.07.11 本人参加了华迪大数据技术软件开发实训，负责航班信息大数据可视化平台的爬虫数据采集工作。通过实现Redis 分布式爬虫，完成各大网上平台的航班数据的采集。在与网站前端、后端开发者进行对接的过程中**锻炼了团队协作能力与沟通能力**。  
 - 2019.12 本人参加了学院组织的“青春志愿，爱在社区”科教进社区活动，在为社区小朋友讲解科普知识的过程中**态度热情认真，表现优秀**。  
 
 # 其他经历
-
+  
 - **较好的团队协作能力**：在大部分需要团队合作的课程设计中都能较好地领导或者配合团队完成任务。  
 - **吃苦耐劳的不屈品质**：在本科科研训练的过程中虽然存在很多艰难险阻但是我依然勇敢面对，迎难而上，按质按量按时完成科研导师布置的各项任务。  
 - **较强的自主学习能力与动手实践能力**：本人本科期间各类课程成绩优异，同时对新事物与新知识有着强烈的好奇心与学习接受能力，有较强的动手能力，在《数字逻辑与微处理器系统设计》中本人使用Vivado 自主实现了五阶段流水线MIPS处理器。
