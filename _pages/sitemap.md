@@ -7,7 +7,7 @@ author_profile: false
 
 {% include base_path %}
 
-<h2>[邓嘉鑫的主页](https://djx2726889.github.io/)</h2>
+<font size=5 >[邓嘉鑫的主页](https://djx2726889.github.io/)</font>
 
-<h2>[CV](https://djx2726889.github.io/cv/)</h2>  
+<font size=5 >[CV](https://djx2726889.github.io/cv/)</font>
 
