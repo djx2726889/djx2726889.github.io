@@ -133,15 +133,15 @@ toc_icon: "cog"
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-g145{font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:top}
+.tg .tg-ml4m{font-family:"Times New Roman", Times, serif !important;;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-xbtx{font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-g145">时间</th>
-    <th class="tg-g145">项目名称</th>
-    <th class="tg-g145">荣誉等级</th>
+    <th class="tg-ml4m">时间</th>
+    <th class="tg-ml4m">项目名称</th>
+    <th class="tg-ml4m">荣誉等级</th>
   </tr>
 </thead>
 <tbody>
@@ -152,18 +152,18 @@ toc_icon: "cog"
   </tr>
   <tr>
     <td class="tg-xbtx">2020.1</td>
-    <td class="tg-xbtx">《一类中值问题的一般解法》论文录用（《数学学习与研究》期刊） </td>
+    <td class="tg-xbtx">《一类中值问题的一般解法》论文录用（《数学学习与研究》期刊）</td>
     <td class="tg-xbtx">第一作者</td>
   </tr>
   <tr>
     <td class="tg-xbtx">2020.1</td>
-    <td class="tg-xbtx">电子科技大学优秀学生奖学金 （连续三年）</td>
+    <td class="tg-xbtx">电子科技大学优秀学生奖学金&nbsp;&nbsp;&nbsp;（连续三年）</td>
     <td class="tg-xbtx">一等奖</td>
   </tr>
   <tr>
     <td class="tg-xbtx">2020.1</td>
     <td class="tg-xbtx">电子科技大学Hackathon极限编程竞赛</td>
-    <td class="tg-g145"> 一等奖</td>
+    <td class="tg-xbtx">一等奖</td>
   </tr>
   <tr>
     <td class="tg-xbtx">2020.07</td>
