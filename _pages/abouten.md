@@ -12,15 +12,15 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
 
-# 教育背景ENNN
+# Education Background
   
-- 2018.08-2022.06 电子科技大学 计算机科学与工程学院 计算机科学与技术（**“成电英才计划”实验班**）  
-- 学分绩点：3.99/4.00   
-- **专业排名（前五学期）: 3/254 1.2%**  
-- CET-4：628     
-- CET-6：590  
+- 2018.08-2022.06  UESCT  School of Computer Science and Engineering  Computer Science and Technology(**Yingcai Honors College**)
+- Credits: 3.99/4.00   
+- GPA(Five Semesters): **3/254  top 1.2%**
+- CET-4: 628     
+- CET-6: 590  
 
-# 主干课程
+# Main Courses
   
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -29,103 +29,108 @@ toc_icon: "cog"
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-i3dw{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:top}
-.tg .tg-mjfx{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;font-weight:bold;text-align:center;
-  vertical-align:top}
+.tg .tg-tavn{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;font-weight:bold;text-align:center;
+  vertical-align:middle}
+.tg .tg-exl0{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 438px">
+<colgroup>
+<col style="width: 392px">
+<col style="width: 46px">
+</colgroup>
 <thead>
   <tr>
-    <th class="tg-mjfx">课程</th>
-    <th class="tg-mjfx">  成绩  </th>
+    <th class="tg-tavn">Courses</th>
+    <th class="tg-tavn">Grade</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-i3dw">数学分析</td>
-    <td class="tg-i3dw">97</td>
+    <td class="tg-exl0">Mathematical Analysis</td>
+    <td class="tg-exl0">97</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">离散数学</td>
-    <td class="tg-i3dw">97</td>
+    <td class="tg-exl0">Discrete Mathematics</td>
+    <td class="tg-exl0">97</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">电子电路实验</td>
-    <td class="tg-i3dw">96</td>
+    <td class="tg-exl0">Experiment of Electronic Circuit</td>
+    <td class="tg-exl0">96</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">计算机系统与网络安全技术</td>
-    <td class="tg-i3dw">96</td>
+    <td class="tg-exl0">Security Technology of Computer System and Network</td>
+    <td class="tg-exl0">96</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">汇编语言与微机接口技术</td>
-    <td class="tg-i3dw">96</td>
+    <td class="tg-exl0">Assembly Language Programming</td>
+    <td class="tg-exl0">96</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">大学物理</td>
-    <td class="tg-i3dw">95</td>
+    <td class="tg-exl0">Physical Experiment</td>
+    <td class="tg-exl0">95</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">线性代数与空间解析几何</td>
-    <td class="tg-i3dw">95</td>
+    <td class="tg-exl0">Linear Algebra and Space Analytical Geometry</td>
+    <td class="tg-exl0">95</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">信号与系统</td>
-    <td class="tg-i3dw">95</td>
+    <td class="tg-i3dw">Signal and System</td>
+    <td class="tg-exl0">95</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">电子电路基础（挑战性课程）</td>
-    <td class="tg-i3dw">94</td>
+    <td class="tg-exl0">Foundations of Circuits and Electronics illustrated(H)</td>
+    <td class="tg-exl0">94</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">Java程序设计</td>
-    <td class="tg-i3dw">94</td>
+    <td class="tg-exl0">The Java Programming</td>
+    <td class="tg-exl0">94</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">软件工程</td>
-    <td class="tg-i3dw">94</td>
+    <td class="tg-exl0">Software Engineering</td>
+    <td class="tg-exl0">94</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">高级语言程序设计</td>
-    <td class="tg-i3dw">93</td>
+    <td class="tg-exl0">The C++ Programming</td>
+    <td class="tg-exl0">93</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">基础科研训练I</td>
-    <td class="tg-i3dw">93</td>
+    <td class="tg-exl0">Basic Academic Training</td>
+    <td class="tg-exl0">93</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">人工智能</td>
-    <td class="tg-i3dw">92</td>
+    <td class="tg-i3dw">Artificial Intelligence</td>
+    <td class="tg-exl0">92</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">随机数学</td>
-    <td class="tg-i3dw">92</td>
+    <td class="tg-exl0">Random Mathematics</td>
+    <td class="tg-exl0">92</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">数据结构与算法</td>
-    <td class="tg-i3dw">91</td>
+    <td class="tg-exl0">Data Structure and Algorithm</td>
+    <td class="tg-exl0">91</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">数字逻辑与微处理器系统设计（挑战性课程）</td>
-    <td class="tg-i3dw">90</td>
+    <td class="tg-exl0">Digital Design and MCU System（H）</td>
+    <td class="tg-exl0">90</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">计算机组成原理</td>
-    <td class="tg-i3dw">90</td>
+    <td class="tg-exl0">Principles of Computer Organization</td>
+    <td class="tg-exl0">90</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">计算机操作系统</td>
-    <td class="tg-i3dw">89</td>
+    <td class="tg-i3dw">Computer Operating System</td>
+    <td class="tg-exl0">89</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">计算机网络</td>
-    <td class="tg-i3dw">88</td>
+    <td class="tg-exl0">Computer Networks</td>
+    <td class="tg-exl0">88</td>
   </tr>
 </tbody>
 </table>
 
 
 
-# 获奖情况
+# Awards
   
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -133,82 +138,81 @@ toc_icon: "cog"
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-g145{font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:top}
+.tg .tg-ml4m{font-family:"Times New Roman", Times, serif !important;;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-xbtx{font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-g145">时间</th>
-    <th class="tg-g145">项目名称</th>
-    <th class="tg-g145">荣誉等级</th>
+    <th class="tg-ml4m">Time</th>
+    <th class="tg-ml4m">Name</th>
+    <th class="tg-ml4m">Grade</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-xbtx">2020.12</td>
-    <td class="tg-xbtx">电子科技大学“大学生创新创业训练计划”</td>
-    <td class="tg-xbtx">优秀结题</td>
+    <td class="tg-xbtx">UESTC"College Student Innovation and Entrepreneurship Training Program"</td>
+    <td class="tg-xbtx">Excellent Finalize</td>
   </tr>
   <tr>
     <td class="tg-xbtx">2020.1</td>
-    <td class="tg-xbtx">《一类中值问题的一般解法》论文录用（《数学学习与研究》期刊） </td>
-    <td class="tg-xbtx">第一作者</td>
+    <td class="tg-xbtx">A General Solution to A Class of Median Problems</td>
+    <td class="tg-xbtx">First Author</td>
   </tr>
   <tr>
     <td class="tg-xbtx">2020.1</td>
-    <td class="tg-xbtx">电子科技大学优秀学生奖学金 （连续三年）</td>
-    <td class="tg-xbtx">一等奖</td>
+    <td class="tg-xbtx">UESTC Outstanding Student Scholarship(Three Years)</td>
+    <td class="tg-xbtx">First Prize</td>
   </tr>
   <tr>
     <td class="tg-xbtx">2020.1</td>
-    <td class="tg-xbtx">电子科技大学Hackathon极限编程竞赛</td>
-    <td class="tg-g145"> 一等奖</td>
+    <td class="tg-xbtx">UESTC Hackathon Extreme Programming Competition</td>
+    <td class="tg-xbtx">First Prize</td>
   </tr>
   <tr>
     <td class="tg-xbtx">2020.07</td>
-    <td class="tg-xbtx">华迪大数据技术软件开发实训</td>
-    <td class="tg-xbtx">优秀成员</td>
+    <td class="tg-xbtx">Huadi Big Data Technology Software Development Training</td>
+    <td class="tg-xbtx">Excellent Member</td>
   </tr>
   <tr>
     <td class="tg-xbtx">2019.12</td>
-    <td class="tg-xbtx">电子科技大学“青春志愿，爱在社区”科教进社区活动</td>
-    <td class="tg-xbtx">优秀成员</td>
+    <td class="tg-xbtx">UESTC Science and Education into the Community Activities</td>
+    <td class="tg-xbtx">Excellent Member</td>
   </tr>
   <tr>
     <td class="tg-xbtx">2019.11</td>
-    <td class="tg-xbtx">第十一届全国大学生数学竞赛（非数学类）</td>
-    <td class="tg-xbtx">省级二等奖</td>
+    <td class="tg-xbtx">The 11th National College Student Mathematics Competition</td>
+    <td class="tg-xbtx">Second Prize</td>
   </tr>
   <tr>
     <td class="tg-xbtx">2019.05</td>
-    <td class="tg-xbtx">电子科技大学第二十九届数学竞赛（非数学类）</td>
-    <td class="tg-xbtx">二等奖</td>
+    <td class="tg-xbtx">UESTC The 29th Mathematics Competition</td>
+    <td class="tg-xbtx">Second Prize</td>
   </tr>
   <tr>
     <td class="tg-xbtx">2019.05</td>
-    <td class="tg-xbtx">电子科技大学第六届数学建模新生赛</td>
-    <td class="tg-xbtx">二等奖</td>
+    <td class="tg-xbtx">UESTC The 6th Mathematical Modeling Contest for Freshmen</td>
+    <td class="tg-xbtx">Second Prize</td>
   </tr>
 </tbody>
 </table>
 
 # 科研经历
   
-- **2019.12~今  电子科技大学未来媒体实验室科研训练**  
-	**学生**：未来媒体实验室是电子科技大学计算机科学与工程学院院长申恒涛教授牵头的研究团队。致力于计算机科学与技术、人工智能等学科在多媒体智能信息处理方面的的学科建设，团队建设，人才培养，科学研究与技术应用。本人主要从事目标检测(Object Detection)、图片描述(Image Caption)、视觉关系检测(Visual Relationship Detection) 相关方面的学习与研究。现在主要在博士的带领下从事关于VRD(Visual Relationship Detection)领域的研究与学习。熟练掌握了常用深度框架Pytorch 的使用、能够熟练使用服务器进行模型的训练、熟悉Pycharm 远程代码调试、熟悉深度学习环境的搭建与使用。对Faster RCNN 目标检测模型与Visual Genome 数据集、VRD 数据集较为了解，熟悉Visual Genome 数据集的数据清洗流程。
+- **2019.12~       UESTC Center for Future Media Research Training**
+  **Student**: The Center for Future Media is devoted to the discipline construction, team building, talent training, scientific research and technology application of computer science and technology, artificial intelligence and other disciplines in multimedia intelligent information processing. I am mainly engaged in the study and research of Object Detection, Image Caption, and Visual Relationship Detection. Now I am mainly engaged in the field of Visual Relationship Detection under the leadership of a Ph.D. I am familiar with the use of the commonly used deep framework such as Pytorch, Pycharm remote code debugging, and the construction of the deep learning environment. I have a better understanding of the Faster RCNN target detection model, the Visual Genome dataset, and the VRD dataset, and I am familiar with the data cleaning process of the Visual Genome dataset. 
 
-- **2019.12~2020.10 大学生创新训练项目《对抗样本数据集的建立及攻防策略研究》**  
-	**项目成员**：承担对抗样本生成、攻击性能测试以及对抗训练等工作；自主形成了一个符合用户实际输入的对抗
-	样本数据集。
 
-# 实践经历
+- **2019.12~2020.10  Research of Adversarial Data Set and Offensive and Defensive Strategies**  
+	**Member**: Responsible for adversarial sample generation, attack performance testing, and adversarial training; We form an adversarial dataset that meets the actual input of users.
+
+# Practical Experience
   
-- 2020.06.30-2020.07.11 本人参加了华迪大数据技术软件开发实训，负责航班信息大数据可视化平台的爬虫数据采集工作。通过实现Redis 分布式爬虫，完成各大网上平台的航班数据的采集。在与网站前端、后端开发者进行对接的过程中**锻炼了团队协作能力与沟通能力**。  
-- 2019.12 本人参加了学院组织的“青春志愿，爱在社区”科教进社区活动，在为社区小朋友讲解科普知识的过程中**态度热情认真，表现优秀**。  
+- 2020.06.30-2020.07.11 I participated in the development training of Huadi Big Data Technology Software Project and was responsible for the crawler data collection of the flight information big data visualization platform. Through the realization of Redis distributed crawler, the flight data collection of major online platforms was completed. In the process of cooperating with the front-end and back-end developers of the website, my **teamwork and communication skills** were formed. 
 
-# 其他经历
+# Other Experience
   
-- **较好的团队协作能力**：在大部分需要团队合作的课程设计中都能较好地领导或者配合团队完成任务。  
-- **吃苦耐劳的不屈品质**：在本科科研训练的过程中虽然存在很多艰难险阻但是我依然勇敢面对，迎难而上，按质按量按时完成科研导师布置的各项任务。  
-- **较强的自主学习能力与动手实践能力**：本人本科期间各类课程成绩优异，同时对新事物与新知识有着强烈的好奇心与学习接受能力，有较强的动手能力，在《数字逻辑与微处理器系统设计》中本人使用Vivado 自主实现了五阶段流水线MIPS处理器。
+- **Team Work**: I can lead or cooperate with the team to accomplish the course designs in most of courses.  
+- **Hard-working**: Although many difficulties and obstacles existed in the process of undergraduate scientific research training, I still faced them bravely and accomplished the tasks on time.  
+- **Learning and Practical ability**: I have excellent grades in various courses during my undergraduate period, and at the same time, I have the strong curiosity and learning ability to explore new things and new knowledge. I implemented a five-stage pipeline MIPS processor using Vivado in the challenging course of Digital Design and MCU System.
