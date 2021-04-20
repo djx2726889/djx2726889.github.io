@@ -198,7 +198,7 @@ toc_icon: "cog"
 </tbody>
 </table>
 
-# 科研经历
+# Research Experience
   
 - **2019.12~       UESTC Center for Future Media Research Training**
   **Student**: The Center for Future Media is devoted to the discipline construction, team building, talent training, scientific research and technology application of computer science and technology, artificial intelligence and other disciplines in multimedia intelligent information processing. I am mainly engaged in the study and research of Object Detection, Image Caption, and Visual Relationship Detection. Now I am mainly engaged in the field of Visual Relationship Detection under the leadership of a Ph.D. I am familiar with the use of the commonly used deep framework such as Pytorch, Pycharm remote code debugging, and the construction of the deep learning environment. I have a better understanding of the Faster RCNN target detection model, the Visual Genome dataset, and the VRD dataset, and I am familiar with the data cleaning process of the Visual Genome dataset. 
