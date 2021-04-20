@@ -28,102 +28,102 @@ toc_icon: "cog"
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-i3dw{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:top}
-.tg .tg-tavn{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;font-weight:bold;text-align:center;
-  vertical-align:middle}
-.tg .tg-exl0{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:middle}
+.tg .tg-6di3{background-color:#FFF;border-color:inherit;color:#494E52;font-family:"Times New Roman", Times, serif !important;;
+  font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-rdhw{background-color:#FFF;border-color:inherit;color:#494E52;font-family:"Times New Roman", Times, serif !important;;
+  text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 438px">
+<table class="tg" style="undefined;table-layout: fixed; width: 778px">
 <colgroup>
-<col style="width: 392px">
-<col style="width: 46px">
+<col style="width: 728px">
+<col style="width: 50px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-tavn">Courses</th>
-    <th class="tg-tavn">Grade</th>
+    <th class="tg-6di3"><span style="font-weight:bold">Courses</span></th>
+    <th class="tg-6di3"><span style="font-weight:bold">Grade</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-exl0">Mathematical Analysis</td>
-    <td class="tg-exl0">97</td>
+    <td class="tg-rdhw">Mathematical Analysis</td>
+    <td class="tg-rdhw">97</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Discrete Mathematics</td>
-    <td class="tg-exl0">97</td>
+    <td class="tg-rdhw">Discrete Mathematics</td>
+    <td class="tg-rdhw">97</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Experiment of Electronic Circuit</td>
-    <td class="tg-exl0">96</td>
+    <td class="tg-rdhw">Experiment of Electronic Circuit</td>
+    <td class="tg-rdhw">96</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Security Technology of Computer System and Network</td>
-    <td class="tg-exl0">96</td>
+    <td class="tg-rdhw">Security Technology of Computer System and Network</td>
+    <td class="tg-rdhw">96</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Assembly Language Programming</td>
-    <td class="tg-exl0">96</td>
+    <td class="tg-rdhw">Assembly Language Programming</td>
+    <td class="tg-rdhw">96</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Physical Experiment</td>
-    <td class="tg-exl0">95</td>
+    <td class="tg-rdhw">Physical Experiment</td>
+    <td class="tg-rdhw">95</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Linear Algebra and Space Analytical Geometry</td>
-    <td class="tg-exl0">95</td>
+    <td class="tg-rdhw">Linear Algebra and Space Analytical Geometry</td>
+    <td class="tg-rdhw">95</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">Signal and System</td>
-    <td class="tg-exl0">95</td>
+    <td class="tg-rdhw">Signal and System</td>
+    <td class="tg-rdhw">95</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Foundations of Circuits and Electronics illustrated(H)</td>
-    <td class="tg-exl0">94</td>
+    <td class="tg-rdhw">Foundations of Circuits and Electronics illustrated(H)</td>
+    <td class="tg-rdhw">94</td>
   </tr>
   <tr>
-    <td class="tg-exl0">The Java Programming</td>
-    <td class="tg-exl0">94</td>
+    <td class="tg-rdhw">The Java Programming</td>
+    <td class="tg-rdhw">94</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Software Engineering</td>
-    <td class="tg-exl0">94</td>
+    <td class="tg-rdhw">Software Engineering</td>
+    <td class="tg-rdhw">94</td>
   </tr>
   <tr>
-    <td class="tg-exl0">The C++ Programming</td>
-    <td class="tg-exl0">93</td>
+    <td class="tg-rdhw">The C++ Programming</td>
+    <td class="tg-rdhw">93</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Basic Academic Training</td>
-    <td class="tg-exl0">93</td>
+    <td class="tg-rdhw">Basic Academic Training</td>
+    <td class="tg-rdhw">93</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">Artificial Intelligence</td>
-    <td class="tg-exl0">92</td>
+    <td class="tg-rdhw">Artificial Intelligence</td>
+    <td class="tg-rdhw">92</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Random Mathematics</td>
-    <td class="tg-exl0">92</td>
+    <td class="tg-rdhw">Random Mathematics</td>
+    <td class="tg-rdhw">92</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Data Structure and Algorithm</td>
-    <td class="tg-exl0">91</td>
+    <td class="tg-rdhw">Data Structure and Algorithm</td>
+    <td class="tg-rdhw">91</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Digital Design and MCU System（H）</td>
-    <td class="tg-exl0">90</td>
+    <td class="tg-rdhw">Digital Design and MCU System（H）</td>
+    <td class="tg-rdhw">90</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Principles of Computer Organization</td>
-    <td class="tg-exl0">90</td>
+    <td class="tg-rdhw">Principles of Computer Organization</td>
+    <td class="tg-rdhw">90</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">Computer Operating System</td>
-    <td class="tg-exl0">89</td>
+    <td class="tg-rdhw">Computer Operating System</td>
+    <td class="tg-rdhw">89</td>
   </tr>
   <tr>
-    <td class="tg-exl0">Computer Networks</td>
-    <td class="tg-exl0">88</td>
+    <td class="tg-rdhw">Computer Networks</td>
+    <td class="tg-rdhw">88</td>
   </tr>
 </tbody>
 </table>
