@@ -14,7 +14,9 @@ toc_icon: "cog"
 
 # Education Background
   
-- 2018.08-2022.06  UESCT  School of Computer Science and Engineering  Computer Science and Technology(**Yingcai Honors College**)
+- 2018.08-2022.06  University of Electronic Science and Technology of China       
+  School of Computer Science and Engineering  
+  Computer Science and Technology**(Yingcai Honors College)**
 - Credits: 3.99/4.00   
 - GPA(Five Semesters): **3/254  top 1.2%**
 - CET-4: 628     
