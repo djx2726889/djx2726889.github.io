@@ -207,7 +207,7 @@ toc_icon: "cog"
 - **2021.02  Mathematical Contest in Modeling**  
   **Member**: I am responsible for the establishment of part of the model, paper writing and using Latex for paper typesetting. In this competition, our team used Matlab, Rstudio to process and analyze the data. At the same time, by consulting a wide range of references, we independently established a mathematical model to solve the problem in an unfamiliar field, and finally won the H prize. Through this competition, I have exercised my writing skills in English scientific and technological papers, information retrieval skills in scientific and technological literature, and teamwork skills, which have benefited a lot.
 
-- **2019.12~       UESTC Center for Future Media Research Training**
+- **2019.12~       UESTC Center for Future Media Research Training**  
   **Student**: The Center for Future Media is devoted to the discipline construction, team building, talent training, scientific research and technology application of computer science and technology, artificial intelligence and other disciplines in multimedia intelligent information processing. I am mainly engaged in the study and research of Object Detection, Image Caption, and Visual Relationship Detection. Now I am mainly engaged in the field of Visual Relationship Detection under the leadership of a Ph.D. I am familiar with the use of the commonly used deep framework such as Pytorch, Pycharm remote code debugging, and the construction of the deep learning environment. I have a better understanding of the Faster RCNN target detection model, the Visual Genome dataset, and the VRD dataset, and I am familiar with the data cleaning process of the Visual Genome dataset. 
 
 
