@@ -135,68 +135,78 @@ toc_icon: "cog"
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ml4m{font-family:"Times New Roman", Times, serif !important;;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-xbtx{font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:middle}
+.tg .tg-dbgy{background-color:#FFF;color:#494E52;font-family:"Times New Roman", Times, serif !important;;font-weight:bold;
+  text-align:center;vertical-align:middle}
+.tg .tg-g145{font-family:"Times New Roman", Times, serif !important;;text-align:center;vertical-align:top}
+.tg .tg-e319{background-color:#FFF;color:#494E52;font-family:"Times New Roman", Times, serif !important;;text-align:center;
+  vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ml4m">Time</th>
-    <th class="tg-ml4m">Name</th>
-    <th class="tg-ml4m">Grade</th>
+    <th class="tg-dbgy"><span style="font-weight:bold">Time</span></th>
+    <th class="tg-dbgy"><span style="font-weight:bold">Name</span></th>
+    <th class="tg-dbgy"><span style="font-weight:bold">Grade</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-xbtx">2020.12</td>
-    <td class="tg-xbtx">UESTC"College Student Innovation and Entrepreneurship Training Program"</td>
-    <td class="tg-xbtx">Excellent Finalize</td>
+    <td class="tg-g145">2021.04</td>
+    <td class="tg-g145">Mathematical Contest in Modeling</td>
+    <td class="tg-g145">Honorable Mention</td>
   </tr>
   <tr>
-    <td class="tg-xbtx">2020.1</td>
-    <td class="tg-xbtx">A General Solution to A Class of Median Problems</td>
-    <td class="tg-xbtx">First Author</td>
+    <td class="tg-e319">2020.12</td>
+    <td class="tg-e319">UESTC"College Student Innovation and Entrepreneurship Training Program"</td>
+    <td class="tg-e319">Excellent Finalize</td>
   </tr>
   <tr>
-    <td class="tg-xbtx">2020.1</td>
-    <td class="tg-xbtx">UESTC Outstanding Student Scholarship(Three Years)</td>
-    <td class="tg-xbtx">First Prize</td>
+    <td class="tg-e319">2020.1</td>
+    <td class="tg-e319">A General Solution to A Class of Median Problems</td>
+    <td class="tg-e319">First Author</td>
   </tr>
   <tr>
-    <td class="tg-xbtx">2020.1</td>
-    <td class="tg-xbtx">UESTC Hackathon Extreme Programming Competition</td>
-    <td class="tg-xbtx">First Prize</td>
+    <td class="tg-e319">2020.1</td>
+    <td class="tg-e319">UESTC Outstanding Student Scholarship(Three Years)</td>
+    <td class="tg-e319">First Prize</td>
   </tr>
   <tr>
-    <td class="tg-xbtx">2020.07</td>
-    <td class="tg-xbtx">Huadi Big Data Technology Software Development Training</td>
-    <td class="tg-xbtx">Excellent Member</td>
+    <td class="tg-e319">2020.1</td>
+    <td class="tg-e319">UESTC Hackathon Extreme Programming Competition</td>
+    <td class="tg-e319">First Prize</td>
   </tr>
   <tr>
-    <td class="tg-xbtx">2019.12</td>
-    <td class="tg-xbtx">UESTC Science and Education into the Community Activities</td>
-    <td class="tg-xbtx">Excellent Member</td>
+    <td class="tg-e319">2020.07</td>
+    <td class="tg-e319">Huadi Big Data Technology Software Development Training</td>
+    <td class="tg-e319">Excellent Member</td>
   </tr>
   <tr>
-    <td class="tg-xbtx">2019.11</td>
-    <td class="tg-xbtx">The 11th National College Student Mathematics Competition</td>
-    <td class="tg-xbtx">Second Prize</td>
+    <td class="tg-e319">2019.12</td>
+    <td class="tg-e319">UESTC Science and Education into the Community Activities</td>
+    <td class="tg-e319">Excellent Member</td>
   </tr>
   <tr>
-    <td class="tg-xbtx">2019.05</td>
-    <td class="tg-xbtx">UESTC The 29th Mathematics Competition</td>
-    <td class="tg-xbtx">Second Prize</td>
+    <td class="tg-e319">2019.11</td>
+    <td class="tg-e319">The 11th National College Student Mathematics Competition</td>
+    <td class="tg-e319">Second Prize</td>
   </tr>
   <tr>
-    <td class="tg-xbtx">2019.05</td>
-    <td class="tg-xbtx">UESTC The 6th Mathematical Modeling Contest for Freshmen</td>
-    <td class="tg-xbtx">Second Prize</td>
+    <td class="tg-e319">2019.05</td>
+    <td class="tg-e319">UESTC The 29th Mathematics Competition</td>
+    <td class="tg-e319">Second Prize</td>
+  </tr>
+  <tr>
+    <td class="tg-e319">2019.05</td>
+    <td class="tg-e319">UESTC The 6th Mathematical Modeling Contest for Freshmen</td>
+    <td class="tg-e319">Second Prize</td>
   </tr>
 </tbody>
 </table>
 
-# Research Experience
-  
+# Research and Competition
+- **2021.02  Mathematical Contest in Modeling**  
+  **Member**: I am responsible for the establishment of part of the model, paper writing and using Latex for paper typesetting. In this competition, our team used Matlab, Rstudio to process and analyze the data. At the same time, by consulting a wide range of references, we independently established a mathematical model to solve the problem in an unfamiliar field, and finally won the H prize. Through this competition, I have exercised my writing skills in English scientific and technological papers, information retrieval skills in scientific and technological literature, and teamwork skills, which have benefited a lot.
+
 - **2019.12~       UESTC Center for Future Media Research Training**
   **Student**: The Center for Future Media is devoted to the discipline construction, team building, talent training, scientific research and technology application of computer science and technology, artificial intelligence and other disciplines in multimedia intelligent information processing. I am mainly engaged in the study and research of Object Detection, Image Caption, and Visual Relationship Detection. Now I am mainly engaged in the field of Visual Relationship Detection under the leadership of a Ph.D. I am familiar with the use of the commonly used deep framework such as Pytorch, Pycharm remote code debugging, and the construction of the deep learning environment. I have a better understanding of the Faster RCNN target detection model, the Visual Genome dataset, and the VRD dataset, and I am familiar with the data cleaning process of the Visual Genome dataset. 
 
