@@ -163,7 +163,7 @@ toc_icon: "cog"
   </tr>
   <tr>
     <td class="tg-i3dw">2020.1</td>
-    <td class="tg-i3dw">电子科技大学优秀学生奖学金&nbsp;&nbsp;&nbsp;（连续三年）</td>
+    <td class="tg-i3dw">电子科技大学优秀学生奖学金&nbsp;&nbsp;&nbsp;（连续两年）</td>
     <td class="tg-i3dw">一等奖</td>
   </tr>
   <tr>

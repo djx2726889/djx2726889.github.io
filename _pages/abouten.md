@@ -167,7 +167,7 @@ toc_icon: "cog"
   </tr>
   <tr>
     <td class="tg-e319">2020.1</td>
-    <td class="tg-e319">UESTC Outstanding Student Scholarship(Three Years)</td>
+    <td class="tg-e319">UESTC Outstanding Student Scholarship(Two Years)</td>
     <td class="tg-e319">First Prize</td>
   </tr>
   <tr>
