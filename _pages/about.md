@@ -208,7 +208,7 @@ toc_icon: "cog"
 	**学生**：未来媒体实验室是电子科技大学计算机科学与工程学院院长申恒涛教授牵头的研究团队。致力于计算机科学与技术、人工智能等学科在多媒体智能信息处理方面的的学科建设，团队建设，人才培养，科学研究与技术应用。本人主要从事目标检测(Object Detection)、图片描述(Image Caption)、视觉关系检测(Visual Relationship Detection) 相关方面的学习与研究。现在主要在博士的带领下从事关于VRD(Visual Relationship Detection)领域的研究与学习。熟练掌握了常用深度框架Pytorch 的使用、能够熟练使用服务器进行模型的训练、熟悉Pycharm 远程代码调试、熟悉深度学习环境的搭建与使用。对Faster RCNN 目标检测模型与Visual Genome 数据集、VRD 数据集较为了解，熟悉Visual Genome 数据集的数据清洗流程。在此期间，本人复现了Jianwei Yang的Faster RCNN模型，并挑选了Visual Genome中出现频率中的Top 100类与Top 50 Relationship进行训练，为Visual Relationship的深入研究打下了良好的基础。
 
 - **2019.12~2020.10 大学生创新训练项目《对抗样本数据集的建立及攻防策略研究》**  
-	**项目成员**：承担对抗样本生成、攻击性能测试以及对抗训练等工作；自主形成了一个符合用户实际输入的对抗
+	**项目成员**：承担对抗样本生成、攻击性能测试以及对抗训练等工作；使用PGD攻击算法自主形成了一个符合用户实际输入的对抗
 	样本数据集。
 
 # 实践经历
