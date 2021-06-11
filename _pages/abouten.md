@@ -161,17 +161,22 @@ toc_icon: "cog"
     <td class="tg-e319">Excellent Finalize</td>
   </tr>
   <tr>
-    <td class="tg-e319">2020.01</td>
+    <td class="tg-e319">2021.02</td>
     <td class="tg-e319">A General Solution to A Class of Median Problems</td>
     <td class="tg-e319">First Author</td>
   </tr>
   <tr>
-    <td class="tg-e319">2020.01</td>
-    <td class="tg-e319">UESTC Outstanding Student Scholarship(Two Years)</td>
+    <td class="tg-e319">2020.12</td>
+    <td class="tg-e319">UESTC Outstanding Student Scholarship</td>
     <td class="tg-e319">First Prize</td>
   </tr>
   <tr>
-    <td class="tg-e319">2020.01</td>
+    <td class="tg-e319">2019.12</td>
+    <td class="tg-e319">UESTC Outstanding Student Scholarship</td>
+    <td class="tg-e319">First Prize</td>
+  </tr>
+  <tr>
+    <td class="tg-e319">2020.10</td>
     <td class="tg-e319">UESTC Hackathon Extreme Programming Competition</td>
     <td class="tg-e319">First Prize</td>
   </tr>

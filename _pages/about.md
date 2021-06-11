@@ -157,17 +157,22 @@ toc_icon: "cog"
     <td class="tg-i3dw">优秀结题</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">2020.01</td>
+    <td class="tg-i3dw">2021.02</td>
     <td class="tg-i3dw">《一类中值问题的一般解法》论文录用（《数学学习与研究》期刊）</td>
     <td class="tg-i3dw">第一作者</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">2020.01</td>
+    <td class="tg-i3dw">2020.12</td>
     <td class="tg-i3dw">电子科技大学优秀学生奖学金&nbsp;&nbsp;&nbsp;（连续两年）</td>
     <td class="tg-i3dw">一等奖</td>
   </tr>
   <tr>
-    <td class="tg-i3dw">2020.01</td>
+    <td class="tg-i3dw">2019.12</td>
+    <td class="tg-i3dw">电子科技大学优秀学生奖学金&nbsp;&nbsp;&nbsp;（连续两年）</td>
+    <td class="tg-i3dw">一等奖</td>
+  </tr>
+  <tr>
+    <td class="tg-i3dw">2020.10</td>
     <td class="tg-i3dw">电子科技大学Hackathon极限编程竞赛</td>
     <td class="tg-i3dw">一等奖</td>
   </tr>
